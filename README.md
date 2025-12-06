@@ -1,6 +1,6 @@
 # Gemini 中文版：Gemini 3 国内使用指南~（支持 Gemini 3 Pro，无需翻墙）【2025年更新】
 
-> **更新时间：2025-11-28**     
+> **更新时间：2025-12-08**     
 
 国内可用的 [**Gemini 中文版**](https://ai.lanjingchat.com)，**无需翻墙**，**支持 Gemini 3 Pro、Gemini 2.5 Pro 及中文版功能**   
 
